@@ -11,6 +11,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 <p> - :label: Currently working on <a href="https://github.com/reitoserizawa/portfolio">portfolio</a></p>
 <p> - :books: I'm currently learning Redux and Goolang</p>
 <p> - :heavy_heart_exclamation: Fun Fact: Grow up by Mt. Fuji and love outdoors</p>
+<p> - :envelope: How to Reach Me: s.reitiger@gmail.com</p>
 
 <h2>Technical Skills :computer:</h2>
 
