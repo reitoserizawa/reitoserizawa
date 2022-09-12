@@ -23,7 +23,13 @@ Improved problem-solving and data management skills by tackling complex applicat
 
 <p>
 <a href="http://reito.me/">
-<img src=src/website-logo/portfolio-logo.png width=40px align=left alt="linkedin icon">
+<img src=src/website-logo/portfolio-logo.png width=40px align=left alt="portfolio">
+</a>
+</p>
+
+<p>
+<a href="https://drive.google.com/file/d/1wOY6bG_KdcjZO0xNMcidgLaLQHu8A4Cl/view?usp=sharing">
+<img src=src/website-logo/resume-icon.png width=40px align=left alt="resume">
 </a>
 </p>
 
@@ -35,7 +41,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 
 <p>
 <a href="https://twitter.com/reitotter">
-<img src=src/website-logo/twitter-logo.webp width=40px align=left alt="linkedin icon">
+<img src=src/website-logo/twitter-logo.webp width=40px align=left alt="twitter icon">
 </a>
 </p>
 
