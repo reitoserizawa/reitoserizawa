@@ -8,7 +8,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 <hr />
 
 <p> - :smile: My pronoun is he/him/his</p>
-<p> - :label: Currently working on <a href="https://github.com/reitoserizawa/portfolio">portfolio</a></p>
+<p> - :label: Currently working on <a href="https://github.com/reitoserizawa/portfolio-app">portfolio</a></p>
 <p> - :books: I'm currently learning Redux and Goolang</p>
 <p> - :heavy_heart_exclamation: Fun Fact: Grow up by Mt. Fuji and love outdoors</p>
 <p> - :envelope: How to Reach Me: <a href="mailto:s.reitiger@gmail.com">s.reitiger@gmail.com</a></p>
@@ -22,9 +22,8 @@ Improved problem-solving and data management skills by tackling complex applicat
 <h2>Other Websites :handshake:</h2>
 
 <p>
-
-<a href="https://medium.com/@s.reitiger">
-<img src=src/website-logo/medium.png width=40px align=left alt="medium icon">
+<a href="http://reito.me/">
+<img src=src/website-logo/portfolio-logo.png width=40px align=left alt="linkedin icon">
 </a>
 </p>
 
@@ -32,5 +31,17 @@ Improved problem-solving and data management skills by tackling complex applicat
 <a href="https://www.linkedin.com/in/reitos/">
 <img src=src/website-logo/linkedin-icon.png width=40px align=left alt="linkedin icon">
 </a>
-
 </p>
+
+<p>
+<a href="https://twitter.com/reitotter">
+<img src=src/website-logo/twitter-logo.webp width=40px align=left alt="linkedin icon">
+</a>
+</p>
+
+<p>
+<a href="https://medium.com/@s.reitiger">
+<img src=src/website-logo/medium.png width=40px align=left alt="medium icon">
+</a>
+</p>
+
