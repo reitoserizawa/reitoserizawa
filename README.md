@@ -9,7 +9,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 
 <p> - :smile: My pronoun is he/him/his</p>
 <p> - :label: Currently working on <a href="https://github.com/reitoserizawa/portfolio-app">portfolio</a></p>
-<p> - :books: I'm currently learning Redux and Goolang</p>
+<p> - :books: I'm currently learning Redux and Golang</p>
 <p> - :heavy_heart_exclamation: Fun Fact: Grow up by Mt. Fuji and love outdoors</p>
 <p> - :envelope: How to Reach Me: <a href="mailto:s.reitiger@gmail.com">s.reitiger@gmail.com</a></p>
 
@@ -50,4 +50,3 @@ Improved problem-solving and data management skills by tackling complex applicat
 <img src=src/website-logo/medium.png width=40px align=left alt="medium icon">
 </a>
 </p>
-
