@@ -27,7 +27,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 </p>
 
 <p>
-<a href="https://drive.google.com/file/d/1phVPxcOCEWu6bzCu8iOabvH8tu__nx04/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1_ylzKlNTIS7iOrMLGp3qtsCTfoJ8GJmO/view?usp=sharing">
 <img src=src/website-logo/resume-logo.png width=40px align=left alt="resume">
 </a>
 </p>
