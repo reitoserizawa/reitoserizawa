@@ -1,14 +1,14 @@
 <img src=src/header/header.png alt="header">
 <h2>Japanese-English Bilingual:jp::us: Full-stack Software Engineer:man_technologist:</h2>
-<p>Experienced in JavaScript, React.js, Ruby, Ruby on Rails, Redux, PostgreSQL, HTML and CSS based programming.
-Developed strong software engineering skills by working with test-driven development.
+<p>Experienced in JavaScript, Python, Ruby, React, Redux, Django, Ruby on Rails, SQL, PostgreSQL, HTML and CSS based programming.
+Developed strong software engineering skills by working on collaborative projects.
 Improved problem-solving and data management skills by tackling complex application issues and analyzing data sets.
 </p>
 
 <hr />
 
 <p> - :smile: My pronoun is he/him/his</p>
-<p> - :books: I'm currently learning Pyhton, algorithms and data structures</p>
+<p> - :books: I'm currently learning Java</p>
 <p> - :heavy_heart_exclamation: Fun Fact: Grow up by Mt. Fuji and love outdoors</p>
 <p> - :envelope: How to Reach Me: <a href="mailto:s.reitiger@gmail.com">s.reitiger@gmail.com</a></p>
 
