@@ -10,7 +10,7 @@ Improved problem-solving and data management skills by tackling complex applicat
 <p> - :smile: My pronoun is he/him/his</p>
 <p> - :books: I'm currently learning Java</p>
 <p> - :heavy_heart_exclamation: Fun Fact: Grow up by Mt. Fuji and love outdoors</p>
-<p> - :envelope: How to Reach Me: <a href="mailto:s.reitiger@gmail.com">s.reitiger@gmail.com</a></p>
+<p> - :envelope: How to Reach Me: <a href="mailto:reitoserizawa@gmail.com">reitoserizawa@gmail.com</a></p>
 
 <h2>Technical Skills :computer:</h2>
 
