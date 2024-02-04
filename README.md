@@ -59,12 +59,6 @@ Developed problem-solving and data management skills by tackling complex applica
 </p>
 
 <p>
-<a href="https://twitter.com/reitotter">
-<img src=src/website-logo/twitter-logo.webp width=40px align=left alt="twitter icon">
-</a>
-</p>
-
-<p>
 <a href="https://medium.com/@s.reitiger">
 <img src=src/website-logo/medium.png width=40px align=left alt="medium icon">
 </a>
