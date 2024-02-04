@@ -46,12 +46,6 @@ Developed problem-solving and data management skills by tackling complex applica
 </p>
 
 <p>
-<a href="https://drive.google.com/file/d/1_ylzKlNTIS7iOrMLGp3qtsCTfoJ8GJmO/view?usp=sharing">
-<img src=src/website-logo/resume-logo.png width=40px align=left alt="resume">
-</a>
-</p>
-
-<p>
 <a href="https://www.linkedin.com/in/reitos/">
 <img src=src/website-logo/linkedin-icon.png width=40px align=left alt="linkedin icon">
 </a>
