@@ -1,8 +1,8 @@
 <img src=src/header/header.png alt="header">
-<h2>Japanese-English Bilingual:jp::us: Full-stack Software Engineer:man_technologist:</h2>
+<h2>Japanese-English Bilingual :jp::us: Full-stack Software Engineer:man_technologist:</h2>
 <p>Experienced in JavaScript, Python, Ruby, Node.js, TypeScript, React, Redux, Django, Flask, Express.js, Ruby on Rails, SQL, MongoDB, PostgreSQL, HTML and CSS based programming.
-Expertise in the object oriented programming and AI developed by the hands-on projects.
-Developed problem-solving and data management skills by tackling complex application issues and analyzing data sets.
+Superb problem-solving and data management skills sharpened by tackling application issues and analyzing data sets.
+Exceptional collaborative skills honed in the software development life cycle. Possesses a passion for continuous self-improvement.
 </p>
 
 <hr />
